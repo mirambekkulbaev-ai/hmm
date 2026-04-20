@@ -14,7 +14,7 @@ import {
   Sparkles,
   Star,
   Twitter,
-  WandSparkles,
+  Wand2,
   X,
 } from "lucide-react";
 
@@ -75,7 +75,7 @@ export default function WebDesignerLandingGold() {
 
   const features = [
     {
-      icon: WandSparkles,
+      icon: Wand2,
       title: "Luxury Aesthetic",
       text: "Высококлассный визуал с ощущением дорогого digital-бренда.",
     },
